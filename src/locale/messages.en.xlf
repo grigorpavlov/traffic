@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="4836ce9489eba07d9382e2a72dd9f0bb6aeac5e8" datatype="html">
+        <source> Home </source>
+        <target>Home</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56d1ad372bd4bd8c292690b43f39c1ff922fcbd0" datatype="html">
+        <source>TARGET CARS LTD</source>
+        <target>TARGET CARS LTD</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d4f8819dd6983394f8ceb326bc45e4d07c6decb8" datatype="html">
+        <source>
+  Welcome to Target Cars LTD
+</source>
+<target>Welcome to Target Cars LTD</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30e25fc5902083bcfca5d20cca7569bdcbc6926c" datatype="html">
+        <source>
+  We sell the fastest cars on this planet.
+</source>
+<target>We sell the fastest cars on this planet.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="01d1f0c6748a0f39c32a5072ec501f2e2c970689" datatype="html">
+        <source>
+  Mercedes
+</source>
+<target>Mercedes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/mercedes/mercedes.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4445e07d595b799619056ecad1fac8a8a269e2ee" datatype="html">
+        <source>
+  The best or nothing
+</source>
+<target>The best or nothing</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/mercedes/mercedes.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="86e131841058eec487d86db3f8e8f4f0c82ffaf8" datatype="html">
+        <source>
+ BMW
+</source>
+<target>BMW</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/bmw/bmw.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a406f5ab34ec8ad84ee73ccb767cd5b4aebe538" datatype="html">
+        <source>
+  The ultimate driving machine
+</source>
+<target>The ultimate driving machine</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/bmw/bmw.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
